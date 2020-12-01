@@ -8,6 +8,9 @@
 you want to monitor
 - edit the `diff_message` variable if you want a custom alert message
 
+## Screenshots
+![Screenshot](screenshot.png)
+
 ## Polybar config
 ```
 [module/info-git]
